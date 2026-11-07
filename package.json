@@ -1,0 +1,18 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p1.js",
+"scripts": {
+  "start": "node p1.js",
+ "dev": "nodemon --legacy-watch p1.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
